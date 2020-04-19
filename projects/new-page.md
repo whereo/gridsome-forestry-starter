@@ -1,7 +1,7 @@
 ---
 date: 2020-04-19
 thumbnail: "/uploads/logo-triangle-simple.png"
-title: New Page
+title: Bergbriada
 categories: []
 project_bg_color: ''
 project_fg_color: ''
